@@ -1,5 +1,7 @@
 # Tailwind CSS Cookie Modal
 
+![Screenshot](./images/screenshot.png)
+
     <!DOCTYPE html>
     <html lang="en">
     <head>
@@ -17,7 +19,7 @@
         /* Demo style */
         body {
             font-family: "Poppins", sans-serif;
-            background-image: url("./pexels-fabian-wiktor-994605.jpg");
+            background-image: url("./images/pexels-fabian-wiktor-994605.jpg");
             background-size: cover;
             background-repeat: no-repeat;
             min-height: 100vh;

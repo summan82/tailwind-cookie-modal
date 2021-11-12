@@ -1,1 +1,1 @@
-# tailwind-cookie-modal
+# Tailwind CSS Cookie Modal

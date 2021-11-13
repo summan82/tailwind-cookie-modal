@@ -4,6 +4,8 @@ Tailwind CSS documentation: [https://tailwindcss.com/docs](https://tailwindcss.c
 
 Background image: [Pexels](https://www.pexels.com/hu-hu/foto/tenger-termeszet-eg-strand-994605/)
 
+## Screenshot
+
 ![Screenshot](./images/screenshot.jpg)
 
     <!DOCTYPE html>

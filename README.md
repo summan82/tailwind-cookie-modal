@@ -1,6 +1,10 @@
 # Tailwind CSS Cookie Modal
 
-![Screenshot](./images/screenshot.png)
+Tailwind CSS documentation: [https://tailwindcss.com/docs](https://tailwindcss.com/docs)
+
+Background image: [Pexels](https://www.pexels.com/hu-hu/foto/tenger-termeszet-eg-strand-994605/)
+
+![Screenshot](./images/screenshot.jpg)
 
     <!DOCTYPE html>
     <html lang="en">
